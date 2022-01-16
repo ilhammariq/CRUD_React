@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "productName": "Biore",
+      "productPrice": 15000,
+      "stock": 12
+    },
+    {
+      "id": 2,
+      "productName": "Permen Mentos",
+      "productPrice": 3000,
+      "stock": 12
+    },
+    {
+      "id": 3,
+      "productName": "Mie Goreng",
+      "productPrice": 2500,
+      "stock": 12
+    },
+    {
+      "id": 4,
+      "productName": "Biskuat",
+      "productPrice": 4000,
+      "stock": 12
+    },
+    {
+      "id": 5,
+      "productName": "Oreo",
+      "productPrice": 3000,
+      "stock": 12
+    }
+  ]
+}
